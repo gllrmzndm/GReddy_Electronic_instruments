@@ -1,0 +1,28 @@
+# The syntax is "key = value". The whitespace around the
+# equals doesn't matter.
+# background = ffffff 
+# foreground = 282c34
+
+# Comments start with a `#` and are only valid on their own line.
+# Blank lines are ignored!
+
+# Themes command ghostty +list-themes
+theme = dark:Andromeda,light:AtomOneLight
+
+# Empty values reset the configuration to the default value
+font-family =
+
+# shell-integrations
+shell-integration = detect
+shell-integration-features = true
+
+#other
+copy-on-select = clipboard
+window-save-state = always
+gtk-adwaita = true
+desktop-notifications = true
+auto-update-channel = stable
+
+clipboard-trim-trailing-spaces = true
+clipboard-write = allow
+adjust-cursor-thickness = 2
