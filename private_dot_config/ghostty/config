@@ -1,18 +1,26 @@
+Guillermo Zaandams Ghostty settings
 # The syntax is "key = value". The whitespace around the
+
 # equals doesn't matter.
-# background = ffffff 
+
+# background = ffffff
+
 # foreground = 282c34
 
 # Comments start with a `#` and are only valid on their own line.
+
 # Blank lines are ignored!
 
 # Themes command ghostty +list-themes
+
 theme = dark:Andromeda,light:AtomOneLight
 
 # Empty values reset the configuration to the default value
+
 font-family =
 
 # shell-integrations
+
 shell-integration = detect
 shell-integration-features = true
 
