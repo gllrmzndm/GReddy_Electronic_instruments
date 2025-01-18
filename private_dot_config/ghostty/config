@@ -33,6 +33,7 @@ gtk-adwaita = true
 desktop-notifications = true
 auto-update-channel = stable
 
+clipboard-paste-protection = allow
 clipboard-trim-trailing-spaces = true
 clipboard-write = allow
 adjust-cursor-thickness = 2
