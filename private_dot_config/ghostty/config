@@ -38,5 +38,4 @@ clipboard-read = allow
 clipboard-write = allow
 clipboard-paste-protection = false
 clipboard-trim-trailing-spaces = true
-clipboard-write = allow
 adjust-cursor-thickness = 2
